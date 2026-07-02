@@ -1,0 +1,6 @@
+<mujoco model="LEGO_Fusion_Set_Town_Master_model">
+    <body name="scanned_object">
+      <geom material="material_0" mesh="model" type="mesh" contype="0" conaffinity="0" group="2"/>
+      <geom mesh="model_collision_0" type="mesh" group="3"/>
+    </body>
+</mujoco>
